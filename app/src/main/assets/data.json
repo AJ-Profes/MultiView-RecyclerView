@@ -1,0 +1,45 @@
+ [{"theViewType": 1,
+      "title": "Android Development",
+      "description": "You will be Learning the Complete Android Dev"
+    }, {
+      "theViewType": 2,
+      "title": "Java Full Course",
+      "description": "You will be Learning the Java"
+    }, {
+      "theViewType": 1,
+      "title": "Web Development",
+      "description": "You will be Learning the Complete Web Dev"
+    }, {
+      "theViewType": 2,
+      "title": "C++ Full Course",
+      "description": "You will be Learning the C++"
+    }, {
+   "theViewType": 1,
+   "title": "ML Development",
+   "description": "You will be Learning the Complete ML Dev"
+ }, {
+   "theViewType": 2,
+   "title": "AI Development",
+   "description": "You will be Learning the Complete AI Dev"
+ },{
+   "theViewType": 1,
+   "title": "Javascript Full Course",
+   "description": "You will be Learning the Complete JS"
+ }, {
+   "theViewType": 2,
+   "title": "Java Full Course",
+   "description": "You will be Learning the Java"
+ }, {
+   "theViewType": 1,
+   "title": "Web Development",
+   "description": "You will be Learning the Complete Web Dev"
+ }, {
+   "theViewType": 2,
+   "title": "Java Full Course",
+   "description": "You will be Learning the Java"
+ }, {
+   "theViewType": 1,
+   "title": "Web Development",
+   "description": "You will be Learning the Complete Web Dev"
+ }
+ ]
