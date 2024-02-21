@@ -1,9 +1,13 @@
 package com.example.multipleviewrecyclerview
 
+import android.app.ProgressDialog
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
 import android.provider.ContactsContract.RawContacts.Data
+import android.view.View
+import android.widget.ProgressBar
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.multipleviewrecyclerview.MultiViewAdapter.Companion.FIRST_VIEW
@@ -21,6 +25,8 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
+    private lateinit var progressBar: ProgressBar
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -28,7 +34,15 @@ class MainActivity : AppCompatActivity() {
 
         setContentView(binding.root)
 
-        initView()
+        progressBar = binding.progressBar
+
+        showProgressBar()
+
+        Handler().postDelayed({
+            hideProgressBar()
+            initView()
+        }, 2000)
+
 
     }
 
@@ -71,5 +85,13 @@ class MainActivity : AppCompatActivity() {
             return null
         }
         return jsonString
+    }
+
+    private fun showProgressBar() {
+        progressBar.visibility = View.VISIBLE
+    }
+
+    private fun hideProgressBar() {
+        progressBar.visibility = View.GONE
     }
 }
