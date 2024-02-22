@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
         var listAdapter = MultiViewAdapter(getList())
         listAdapter.onItemClick = {
 
-            Toast.makeText(this, "${it.title}", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "${it.title}", Toast.LENGTH_SHORT).show()
 
         }
 
@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
             return data
         }
 
-        return arrayListOf(( DataModel(FIRST_VIEW, "Android Development", "You will be Learning the Complete Android Dev")))
+        return arrayListOf(( DataModel("https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",FIRST_VIEW, "Android Development", "You will be Learning the Complete Android Dev")))
     }
 
     fun getJsonDataFromAsset(context: Context, fileName: String): String? {

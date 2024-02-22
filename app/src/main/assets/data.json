@@ -1,45 +1,101 @@
- [{"theViewType": 1,
+ [
+   {
+     "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+     "theViewType": 2,
       "title": "Android Development",
       "description": "You will be Learning the Complete Android Dev"
     }, {
-      "theViewType": 2,
+      "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+      "theViewType": 1,
       "title": "Java Full Course",
       "description": "You will be Learning the Java"
     }, {
-      "theViewType": 1,
+      "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+      "theViewType": 2,
       "title": "Web Development",
       "description": "You will be Learning the Complete Web Dev"
     }, {
-      "theViewType": 2,
+   "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+      "theViewType": 1,
       "title": "C++ Full Course",
       "description": "You will be Learning the C++"
     }, {
-   "theViewType": 1,
+   "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+   "theViewType": 2,
    "title": "ML Development",
    "description": "You will be Learning the Complete ML Dev"
  }, {
-   "theViewType": 2,
+   "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+   "theViewType": 1,
    "title": "AI Development",
    "description": "You will be Learning the Complete AI Dev"
  },{
-   "theViewType": 1,
+   "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+   "theViewType": 2,
    "title": "Javascript Full Course",
    "description": "You will be Learning the Complete JS"
  }, {
+   "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+   "theViewType": 1,
+   "title": "Java Full Course",
+   "description": "You will be Learning the Java"
+ }, {
+   "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+   "theViewType": 2,
+   "title": "Web Development",
+   "description": "You will be Learning the Complete Web Dev"
+ }, {
+   "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+   "theViewType": 1,
+   "title": "Java Full Course",
+   "description": "You will be Learning the Java"
+ }, {
+   "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+   "theViewType": 2,
+   "title": "Web Development",
+   "description": "You will be Learning the Complete Web Dev"
+ },
+   {
+     "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+     "theViewType": 1,
+     "title": "Android Development",
+     "description": "You will be Learning the Complete Android Dev"
+   }, {
+   "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
    "theViewType": 2,
    "title": "Java Full Course",
    "description": "You will be Learning the Java"
  }, {
+   "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
    "theViewType": 1,
    "title": "Web Development",
    "description": "You will be Learning the Complete Web Dev"
  }, {
+   "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+   "theViewType": 1,
+   "title": "Java Full Course",
+   "description": "You will be Learning the Java"
+ }, {
+   "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+   "theViewType": 2,
+   "title": "Web Development",
+   "description": "You will be Learning the Complete Web Dev"
+ },
+   {
+     "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
+     "theViewType": 1,
+     "title": "Android Development",
+     "description": "You will be Learning the Complete Android Dev"
+   }, {
+   "imgUrl" : "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
    "theViewType": 2,
    "title": "Java Full Course",
    "description": "You will be Learning the Java"
  }, {
+   "imgUrl" : "https://www.usnews.com/dims4/USNEWS/6d9d1e5/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F38%2Fe6%2F58c88e3c4d2e9dd1a7055521da7f%2F201016-udemy-stock.png",
    "theViewType": 1,
    "title": "Web Development",
    "description": "You will be Learning the Complete Web Dev"
  }
+
  ]
